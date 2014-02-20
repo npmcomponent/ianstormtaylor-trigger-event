@@ -1,0 +1,15 @@
+{
+  "name": "ianstormtaylor-trigger-event",
+  "description": "Programmatically trigger a DOM event. Useful for testing mostly.",
+  "version": "0.1.0",
+  "keywords": [
+    "event",
+    "trigger",
+    "dom",
+    "element"
+  ],
+  "dependencies": {
+    "ianstormtaylor-create-event": "git://github.com/npmcomponent/ianstormtaylor-create-event.git"
+  },
+  "license": "MIT"
+}

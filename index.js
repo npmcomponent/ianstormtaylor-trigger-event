@@ -1,5 +1,5 @@
 
-var create = require('create-event');
+var create = require('ianstormtaylor-create-event');
 
 
 /**
